@@ -3,6 +3,8 @@
 
 A Streamlit web application that checks and displays flight prices between Chicago and New York area airports for Frontier Airlines' GoWild pass holders.
 
+![image](image.png)
+
 ## Features
 
 - Real-time flight price checking
